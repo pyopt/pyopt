@@ -1,6 +1,4 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://www.figma.com/file/IofJYphbRZrRxkgHC5ACxH/GitHub2?type=design&node-id=0%3A1&mode=design&t=AeW0LORlQMIO2Me0-1" alt=”my banner”>
-</p>
+<img style=”margin: 10px” src=”https://github.com/pyopt/pyopt/blob/439b97605fe235d207ec467968c72269ef44fb5c/GitHub2.jpg" alt=”React” height=”50" />
 <h1 align="center">Hi 👋, I'm PyOpt by Ashutosh</h1>
 <h3 align="center">An Orchestrated DevOps and QAE from India.</h3>
 

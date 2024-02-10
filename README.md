@@ -1,6 +1,7 @@
-<img style=”margin: 10px” src=”https://github.com/pyopt/pyopt/blob/439b97605fe235d207ec467968c72269ef44fb5c/GitHub2.jpg" alt=”React” height=”50" />
+
 <h1 align="center">Hi 👋, I'm PyOpt by Ashutosh</h1>
 <h3 align="center">An Orchestrated DevOps and QAE from India.</h3>
+<img style="margin: 10px" src="https://github.com/pyopt/pyopt/blob/439b97605fe235d207ec467968c72269ef44fb5c/GitHub2.jpg" alt="React" height="50" />
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 

@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://drive.google.com/file/d/18RPwpkkvuHUAGa5ApCPn8hHK_7eo4wOC/view?usp=sharing" alt=”my banner”>
+<img width=”200" height=”200" src=”https://www.figma.com/file/IofJYphbRZrRxkgHC5ACxH/GitHub2?type=design&node-id=0%3A1&mode=design&t=AeW0LORlQMIO2Me0-1" alt=”my banner”>
 </p>
 <h1 align="center">Hi 👋, I'm PyOpt by Ashutosh</h1>
 <h3 align="center">An Orchestrated DevOps and QAE from India.</h3>
